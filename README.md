@@ -7,6 +7,10 @@
 ##### Step 4: Use Redux with async action - Using Promise Middleware
 ##### Step 5: Build a complete Todo list with React
 
+## Redux Flow
+
+![Redux Flow](Redux_Flow.png)
+
 ## Libraries Used
 [Redux](https://redux.js.org/)
 
